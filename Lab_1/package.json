@@ -1,0 +1,25 @@
+{
+  "name": "lab_1",
+  "version": "1.0.0",
+  "description": "LAB_1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryToronii/Web-Part-2-.git"
+  },
+  "author": "Mary Toronii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaryToronii/Web-Part-2-/issues"
+  },
+  "homepage": "https://github.com/MaryToronii/Web-Part-2-#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "typescript": "^4.4.3"
+  }
+}
